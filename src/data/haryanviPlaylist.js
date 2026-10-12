@@ -1,0 +1,16 @@
+export const haryanviPlaylist = [
+  { id: "xLWoecqs_7I", title: "52 Gaj Ka Daman", artist: "Renuka Panwar" },
+  { id: "s9AICwTKgOg", title: "Chatak Matak", artist: "Renuka Panwar" },
+  { id: "c-hLzEf_J8k", title: "Moto", artist: "Diler Kharkiya" },
+  { id: "1bHpLLWJNJQ", title: "Gajban", artist: "Vishvajeet Choudhary" },
+  { id: "S1MhSJ44U84", title: "Badli Badli Laage", artist: "Ruchika Jangid" },
+  { id: "kYzzEPMJFyA", title: "Coco Cola", artist: "Ruchika Jangid, Kay D" },
+  { id: "jd3mgxIZKSU", title: "Lala Lori", artist: "Fazilpuria, Afsana Khan" },
+  { id: "kqORlNfprKM", title: "Kallo", artist: "Ajay Hooda" },
+  { id: "QMrzbvPvjQQ", title: "Ghunghat Bain", artist: "Ruchika Jangid, Surender Romio" },
+  { id: "eM_AOpOUmoQ", title: "Katal", artist: "Mohit Sharma" },
+  { id: "kCaz3eHI42U", title: "Teesri Baithak", artist: "Renuka Panwar, Masoom Sharma" },
+  { id: "Rn9AlyrgEuw", title: "Gunehgar", artist: "KD Desi Rock, Raju Punjabi" },
+  { id: "1YcERGdu8dM", title: "Loot Liya", artist: "Khasa Aala Chahar" },
+  { id: "RcFnAYRDIIc", title: "Lehenga", artist: "Raju Punjabi" },
+];
